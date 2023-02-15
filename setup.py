@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="prembly",
-    version="0.0.1",
+    version="0.1.1",
     author="Prembly Inc.",
     author_email="general@myidentitypass.com",
     description="Prembly Python Library",
