@@ -6,13 +6,13 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="prembly",
-    version="1.1.1",
-    author="Samson Ilemobayo",
+    version="0.0.1",
+    author="Prembly Inc.",
     author_email="general@myidentitypass.com",
     description="Prembly Python Library",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/samkayz/teamapt-monnify.git",
+    url="https://github.com/prembly/python_sdk",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
